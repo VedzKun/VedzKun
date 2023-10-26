@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://images.pexels.com/photos/3573351/pexels-photo-3573351.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" height="150" width="200" /></a>
 <!--
 **VedzKun/VedzKun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

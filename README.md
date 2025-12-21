@@ -2,7 +2,7 @@
 <h3>Builder • ML Enthusiast • Systems Thinker</h3>
 
 <p>
-I love building systems from scratch — from backend logic to ML pipelines  
+I love building systems from scratch, from backend logic to ML pipelines  
 and experimenting with multimodal AI, real-time apps, and data-driven products.
 </p>
 <h2>🧠 Languages I use:</h2>

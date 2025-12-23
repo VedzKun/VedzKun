@@ -1,4 +1,4 @@
-<h1>Hey 👋, I'm Vedant</h1>
+<h1>Hey , I'm Vedant</h1>
 <h3>Builder • ML Enthusiast • Systems Thinker</h3>
 
 <p>

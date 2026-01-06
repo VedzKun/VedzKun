@@ -7,12 +7,15 @@ and experimenting with multimodal AI, real-time apps, and data-driven products.
 </p>
 <h2>🧠 Languages I use:</h2>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedzKun&layout=donut&theme=tokyonight" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=VedzKun&theme=tokyonight" width="48%" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=VedzKun&theme=tokyo-night" width="48%" />
 </p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=VedzKun&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<p align="center">
+  <img src="https://github.com/VedzKun/VedzKun/blob/main/github-metrics.svg" />
 </p>
+
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,express,mongodb,pytorch,tensorflow,docker&theme=dark" />
